@@ -1,0 +1,27 @@
+name: Drop_Event
+api-version: 1.14
+version: 2.5
+description: Create unique events where you have to find items!
+author: [AlaDyn172]
+
+main: xyz.AlaDyn172.DEvent.Main
+
+commands:
+    creategotoevent:
+        description: Create the teleport for event area.
+    gotoevent:
+        description: You can teleport to the event area.
+    droppeditems:
+        description: Display how much items are still dropped.
+    eventon:
+        description: Turn on the event.
+    eventoff:
+        description: Turn off the event.
+    eventmsg:
+        description: Broadcast event message to all players.
+    togdropmsg:
+        description: Toggle the drop item in event message.
+permissions:
+    devent.use:
+        description: Allow players to use all admin commands.
+        default: op

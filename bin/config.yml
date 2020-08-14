@@ -1,0 +1,15 @@
+#Config.yml
+foundItem: '&a&lhas found the hidden item!'
+noItemsLeftEvent: '&d&lBecause there are no items left, the event has to end!'
+moreItemsToFind: '&9&lItems left in event:'
+itemDrop: '&c-player-&2 dropped'
+placeDropped: '&2(the item is near /gotoevent)'
+teleportToEvent: '&2&lYou have been teleported to event place.'
+noEventNow: '&2&lAt the moment there is no event taking place.'
+alreadyOn: '&cThe event is already taking place.'
+alreadyOff: '&cThe event is not taking place.'
+eventTurnOn: '&cYou turned on the event.'
+eventTurnOff: '&cYou turned off the event.'
+droppedItems: 'Total items dropped:'
+dropItemMsg: true
+LocationEvent: {}
